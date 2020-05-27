@@ -5,7 +5,7 @@ function App() {
   return (
     <header className="app">
       <div className="app-header">IKON matoora</div>
-      <div>SV EN LOGIN VARUKORG</div>
+      <div className="app-header">SV EN LOGIN VARUKORG</div>
     </header>
   );
 }
