@@ -3,9 +3,10 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="app">
-      <header className="app-header">matoora</header>
-    </div>
+    <header className="app">
+      <div className="app-header">IKON matoora</div>
+      <div>SV EN LOGIN VARUKORG</div>
+    </header>
   );
 }
 
