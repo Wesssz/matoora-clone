@@ -1,12 +1,13 @@
 import React from "react";
 import "./App.css";
 
+import Header from "./components/Header/Header";
+
 function App() {
   return (
-    <header className="app">
-      <div className="app-header">IKON matoora</div>
-      <div className="app-header">SV EN LOGIN VARUKORG</div>
-    </header>
+    <div className="app">
+      <Header />
+    </div>
   );
 }
 

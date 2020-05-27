@@ -7,7 +7,6 @@ body {
 }
 
 .app {
-  height: 200em;
 }
 
 .app-header {
@@ -18,4 +17,6 @@ body {
   font-family: "MuseoSans", Arial, sans-serif;
   width: 100%;
   border-bottom: 1px rgb(215, 15, 100) solid;
+  display: flex;
+  justify-content: space-between;
 }
